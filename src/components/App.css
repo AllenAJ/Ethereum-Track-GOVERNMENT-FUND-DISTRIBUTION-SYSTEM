@@ -1,0 +1,29 @@
+/* Styles go here */
+body{
+  background-color: #fffff;
+}
+.c_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card {
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 150%;
+  left: 420px;
+  border-radius: 5px;
+  margin: auto;
+  padding-left: 15px;
+  padding: 20px;
+}
+.lol{
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn btn-primary{
+  position: relative;
+  left: 100px;
+}
