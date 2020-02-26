@@ -10,8 +10,11 @@ npm install
 ganache-cli
 
 
+
 // Migrating the contract and testing it
 
 sudo truffle migrate --reset
+
 sudo truffle test 
+
 npm run start
